@@ -1,1 +1,1 @@
-# DeepLearning 파헤치기 입니다.
+# DeepLearnin_MNIST 
