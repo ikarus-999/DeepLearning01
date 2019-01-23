@@ -1,3 +1,1 @@
-# DeepLearning_Dwe
-# DeepLearning01
-# DeepLearning01
+# DeepLearning 파헤치기 입니다.
